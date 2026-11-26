@@ -28,3 +28,9 @@ Pruebas V5 ejecutadas en Chromium: selección de tres salones, diez uñas, esmal
 
 ## V6
 Nuevo cuarto escenario: tocador moderno Furniture No-23, con espejo, cajón, asiento y caja de maquillaje, renderizado desde las 14 mallas del GLB. Conversión de color a sRGB para la vista previa. Haircut 3D Model es un icono de cara y tijeras, no un cabello; se integra como imagen en el catálogo de cortes. Licencias Sketchfab Standard originales incluidas. No se introducen personajes ni peinados adicionales. Se mantiene guardado, herramientas y todas las modalidades.
+
+## V7 — revisión funcional
+- Acciones progresivas sobre zonas de pelo, ojos, labios y mejillas. Champú, aclarado, secado, corte, tinte, brillo y flores. Limado, retirada de esmalte y conservación de decoración. Se requiere completar el porcentaje de tratamiento antes de obtener estrellas; premio único por princesa y servicio. El selector cancela correctamente y continuar está desactivado en partida nueva.
+- Renderizador software Canvas 2D que dibuja las mallas triangulares texturizadas en perspectiva ortográfica, sin depender de WebGL. Permite girar los personajes y manos y aplicar tratamientos sobre sus zonas. Quince peinados disponibles para las cuatro princesas; Elsa y Blancanieves se adaptaron mediante separación aproximada de triángulos del pelo.
+- Las tres escenas importadas tienen visor 3D giratorio, independiente del fondo durante los tratamientos. Palacio ilustrado sin malla. Los personajes tienen una reacción corporal corta, no animaciones esqueléticas/faciales completas. Recorte y peinado simplificados, no simulación física de mechones. Las manos son geometría real con regiones de uñas proyectadas; limado y adornos son efectos superficiales.
+- No se añaden príncipes sin modelos aportados. Pruebas Chromium local, no verificación Safari físico ni publicación GitHub. La versión autónoma es grande; preferir ZIP para alojar. Se mantienen los créditos de las versiones previas.

@@ -1,0 +1,1 @@
+V7: python tests/test_v7_desktop.py RUTA_HTML_AUTONOMO y python tests/test_v7_touch.py RUTA_HTML_AUTONOMO. Requiere Playwright y Chromium en /usr/bin/chromium. Los tests anteriores a V7 se conservan como referencia histórica y no se ejecutan sobre V7.
