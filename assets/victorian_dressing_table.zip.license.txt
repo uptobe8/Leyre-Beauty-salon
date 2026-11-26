@@ -1,0 +1,11 @@
+Model Information:
+* title:	Victorian dressing table
+* source:	https://sketchfab.com/3d-models/victorian-dressing-table-0bef89aafd31423ab9c5b4dcf9c5aba9
+* author:	stanislau.see (https://sketchfab.com/stanislau.see)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Victorian dressing table" (https://sketchfab.com/3d-models/victorian-dressing-table-0bef89aafd31423ab9c5b4dcf9c5aba9) by stanislau.see (https://sketchfab.com/stanislau.see) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

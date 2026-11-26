@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toon Hair Dryer
+* source:	https://sketchfab.com/3d-models/toon-hair-dryer-141202eed32747b7b1259a3efeba9c96
+* author:	Habib Siddick (https://sketchfab.com/habibshiddick3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toon Hair Dryer" (https://sketchfab.com/3d-models/toon-hair-dryer-141202eed32747b7b1259a3efeba9c96) by Habib Siddick (https://sketchfab.com/habibshiddick3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

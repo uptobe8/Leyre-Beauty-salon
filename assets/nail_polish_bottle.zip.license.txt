@@ -1,0 +1,8 @@
+Model Information:
+* title:	Nail Polish Bottle
+* source:	https://sketchfab.com/3d-models/nail-polish-bottle-eded814f511e40afbd1fc6d7ea8ee815
+* author:	saurabh.buradkar7 (https://sketchfab.com/saurabh.buradkar7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

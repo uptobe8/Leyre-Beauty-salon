@@ -1,0 +1,8 @@
+Model Information:
+* title:	Haircut 3D Model
+* source:	https://sketchfab.com/3d-models/haircut-3d-model-49a19888dbd343579a8af3a834205ba3
+* author:	saurabh.buradkar7 (https://sketchfab.com/saurabh.buradkar7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

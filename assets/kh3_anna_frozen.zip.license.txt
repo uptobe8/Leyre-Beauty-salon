@@ -1,0 +1,11 @@
+Model Information:
+* title:	KH3 Anna (Frozen)
+* source:	https://sketchfab.com/3d-models/kh3-anna-frozen-9590ef898b364f408da7182cb18a7cd8
+* author:	Guilherme Navarro (https://sketchfab.com/guinavarro.al)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KH3 Anna (Frozen)" (https://sketchfab.com/3d-models/kh3-anna-frozen-9590ef898b364f408da7182cb18a7cd8) by Guilherme Navarro (https://sketchfab.com/guinavarro.al) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

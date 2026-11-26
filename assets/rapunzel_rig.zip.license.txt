@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rapunzel rig
+* source:	https://sketchfab.com/3d-models/rapunzel-rig-103bebc26b29480197f3c95af6d51049
+* author:	pve771309 (https://sketchfab.com/pve771309)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rapunzel rig" (https://sketchfab.com/3d-models/rapunzel-rig-103bebc26b29480197f3c95af6d51049) by pve771309 (https://sketchfab.com/pve771309) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
