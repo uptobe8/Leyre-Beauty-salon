@@ -43,3 +43,28 @@ Portada con cuatro modos, personalización y música. Día de relajación: secue
 - Nuevo salón 3D rosa construido con geometría y materiales procedurales (mármol, paredes, ventanas, estanterías, botellas y banco), reutilizando el tocador moderno original de Furniture No-23. Es una escena 3D estilizada, no un salón fotográfico. El salón escaneado, torre de Rapunzel y ambos tocadores anteriores siguen seleccionables. La cámara del nuevo salón se puede girar en el visor. Se conserva el renderizado de personajes/escenarios por capas separadas.
 - En primera carga de V9, el escenario por defecto anterior Shimokitazawa migra a salón rosa (otros escenarios y todos los progresos se conservan). El selector desde Personalizar vuelve a Inicio al confirmar.
 - HTML autónomo incluye scripts e imágenes. Música: las tres melodías instrumentales originales de V8. Sin despliegue ni prueba en Safari físico.
+
+## V10
+Selector unificado de cuatro princesas, cinco escenarios y diez canciones. Selección dorada y rosa; giro directo mediante arrastre en la previsualización y fuera de las zonas de tratamiento en el salón. Las zonas de tratamiento conservan los gestos. Nuevo renderizador WebGL con resolución nativa de pantalla hasta 3840 × 2160 y alternativa CPU mejorada. WebGL no está disponible en Chromium de pruebas: no se han verificado la fluidez GPU ni 4K real; los recursos originales tienen resolución limitada. Siete MP3 aportados, recodificados completos a 96 kbps; licencias de publicación no verificadas.
+
+PASS Four modes
+PASS Four princesses, five venues, ten songs
+PASS Selection clearly marked
+PASS Princess selection persists
+PASS Tower selected
+PASS Uploaded music selected
+PASS Direct preview rotation
+PASS Service opens directly in 3D
+PASS No rotate buttons visible
+PASS Direct rotation in salon
+GPU available: False
+PASS No JavaScript errors
+PASS Mobile selector no horizontal overflow
+PASS Relajación comienza en peluquería 3D
+PASS Pelo progresa mediante interacción 3D
+PASS Relajación avanza a maquillaje
+PASS Maquillaje 3D completo
+PASS Manicura siempre 3D
+PASS Diez uñas tratadas en 3D
+PASS Día completo, nueve estrellas
+PASS Sin errores JS
