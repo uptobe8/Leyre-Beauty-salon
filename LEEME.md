@@ -68,3 +68,6 @@ PASS Manicura siempre 3D
 PASS Diez uñas tratadas en 3D
 PASS Día completo, nueve estrellas
 PASS Sin errores JS
+
+## V11
+Escenarios nuevos: Beauty Salon del archivo Blender 4.01 (405.496 triángulos de origen, 20 grupos de material; color UV de 8 imágenes empaquetadas, reducidas a máximo 2048 px; cámara original, planos recortados para el navegador). Se importan mallas base, no modificadores Blender ni iluminación Cycles, materiales PBR aproximados. Sweet Home Hair Salon convertido desde el XML y las mallas OBJ internas (muebles low poly del original). Se conserva todo el catálogo anterior. La mano articulada texturizada de Elena FF se usa duplicada y reflejada en una pareja; pose estática y 10 áreas de manicura reajustadas. Los GLB de mano sin textura son duplicados/variantes no usados; no se incorporan formatos redundantes. Licencia de Blender y SH3D no confirmada en sus archivos, revisar antes de publicación. No se garantiza fotorrealismo ni 4K efectivo.
